@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="blue"> #00ffff</color>
+
+<!--    color Arrays-->
+    <string-array name="colors">
+
+        <item>#ff0000</item>
+        <item>#00ff00</item>
+        <item>#0000ff</item>
+
+    </string-array>
+</resources>
